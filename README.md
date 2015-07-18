@@ -1,5 +1,7 @@
-# seafoam theme
+# Seafoam Theme
 
-A short description of your theme.
+A syntax theme consisting of soft blues and greens
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![palette](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/palette.png)
+![screenshot](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/snapshot_0.png)
+![screenshot](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/snapshot_1.png)

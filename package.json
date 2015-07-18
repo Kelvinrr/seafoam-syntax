@@ -1,13 +1,17 @@
 {
-  "name": "seafoam",
+  "name": "seafoam-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.9.0",
+  "description": "A syntax theme consisting of soft blues and greens on a dark background",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "blue",
+    "green",
+    "colorful",
+    "dark"
   ],
-  "repository": "https://github.com/atom/seafoam",
+  "repository": "https://github.com/Kelvinrr/seafoam-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
