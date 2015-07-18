@@ -2,5 +2,6 @@
 
 A syntax theme consisting of soft blues and greens
 
+![palette](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/palette.png)
 ![screenshot](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/snapshot_0.png)
 ![screenshot](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/snapshot_1.png)
