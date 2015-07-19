@@ -1,3 +1,6 @@
+## 1.0.0 - CSS update
+* improved CSS colors 
+
 ## 0.11.0 - Updated Release
 * changed colors to better suit the chosen palette
 
