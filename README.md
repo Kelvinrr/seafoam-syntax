@@ -7,6 +7,7 @@ A syntax theme consisting of soft blues and greens
 ```console
 apm install seafoam-syntax
 ```
+# Images
 
 ![palette](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/palette.png)
 ![screenshot](https://raw.githubusercontent.com/Kelvinrr/seafoam-syntax/master/snapshot_0.png)
